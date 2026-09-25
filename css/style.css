@@ -84,7 +84,7 @@ body {
     }
 }
 .principal {
-    background-image: url("imagen/ultra\ ins.jpg");
+    background-image: url("../imagen/ultra\ ins.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
